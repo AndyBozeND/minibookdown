@@ -1,8 +1,5 @@
-# Tutorial 1
+# Tutorial 1: Custom styling a website
 
----
-title: Custom styling a website
----
 
 ## Getting the Stylus add-on for your browser
 We'll use Firefox in this tutorial, but you can do the same thing in the Chrome and Edge browsers.
