@@ -35,7 +35,7 @@ First, visit the Primo staging logon page, then click the Stylus button and clic
 
 Paste the following CSS into the editor.
 
-```{r}
+```
   body {
       mix-blend-mode: multiply;
       isolation: auto;
